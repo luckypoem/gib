@@ -6,7 +6,7 @@ namespace NodeJS {
     AUTHOR_NAME: string;
     BLOG_TITLE: string;
     BLOG_DESCRIPTION: string;
-    NEXT_PUBLIC_OWNER: string;
-    NEXT_PUBLIC_REPO: string;
+    NEXT_PUBLIC_OWNER: briteming;
+    NEXT_PUBLIC_REPO: gib;
   }
 }
